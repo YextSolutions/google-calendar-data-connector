@@ -1,5 +1,4 @@
 ##### google-calendar-data-connector
-### Google Calendar Events Connector
 
 # Product Description
 
